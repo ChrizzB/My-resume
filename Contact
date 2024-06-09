@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="Descrition" content="about me page">
+    <meta name="Keywords" content="about, me, tel, emaail, address">
+    <meta name="Author" content="Axola Batyi"
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+</head>
+<body>
+    <p>Tel: +27677642616 </p>
+    <p>Email:Axbiz@gmail.com</p>
+    <p> Address: <br>
+         Rondebosch <br>
+         Cape Town <br>
+         South Africa
+    </P>    
+
+   
+</body>
+    
+
+  
+</html>
